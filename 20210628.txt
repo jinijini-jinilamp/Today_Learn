@@ -1,0 +1,6 @@
+# class
+- pandas
+
+# todo list
+- 수업 복습
+- 스터디 준비
