@@ -1,0 +1,5 @@
+# class
+- konlpy수업
+# todo list
+- 수업 복습
+- 스터디
