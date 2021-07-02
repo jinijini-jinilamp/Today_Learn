@@ -1,5 +1,6 @@
 # class
-- konlpy수업
+- 팀별 프로젝트
+- pandas, library 리뷰
+- 과제 제출
 # todo list
-- 수업 복습
-- 프로젝트 준비
+- 프로젝트 보완
