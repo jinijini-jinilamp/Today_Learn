@@ -1,0 +1,9 @@
+# class
+- 리뷰
+- 주간 스케줄 확인
+- bike sharing demand
+- 팀별 프로젝트
+
+# todo list
+- 수업 복습
+- 프로젝트 준비
